@@ -1,0 +1,869 @@
+{
+    "businesses": [
+        {
+            "id": "rWZ4Sw0BJ1WmlhFMH-MNFA",
+            "alias": "名代とんかつ-かつくら-三条本店-京都市",
+            "name": "Nadai Tonkatsu Katsukura Sanjō Honten",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YTLG-N1UC0vHS1YzS3vQxw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E5%90%8D%E4%BB%A3%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4-%E3%81%8B%E3%81%A4%E3%81%8F%E3%82%89-%E4%B8%89%E6%9D%A1%E6%9C%AC%E5%BA%97-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 150,
+            "categories": [
+                {
+                    "alias": "tonkatsu",
+                    "title": "Tonkatsu"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.008928,
+                "longitude": 135.767685
+            },
+            "transactions": [],
+            "price": "￥￥",
+            "location": {
+                "address1": "中京区三条通寺町東入石橋町16",
+                "address2": "",
+                "address3": null,
+                "city": "Kyoto",
+                "zip_code": "604-8036",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区三条通寺町東入石橋町16",
+                    "Kyoto, 京都府 〒604-8036",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752123581",
+            "display_phone": "+81 75-212-3581",
+            "distance": 1738.9334201797883
+        },
+        {
+            "id": "_2Us58JGbbwvlY1SSVqPRg",
+            "alias": "めん馬鹿一代-京都市",
+            "name": "MENBAKAICHIDAI",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J8bUwxbFJSjw6njjOoiMoA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E3%82%81%E3%82%93%E9%A6%AC%E9%B9%BF%E4%B8%80%E4%BB%A3-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 98,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.0176727783951,
+                "longitude": 135.747652
+            },
+            "transactions": [],
+            "price": "￥",
+            "location": {
+                "address1": "上京区南伊勢屋町757-2",
+                "address2": "佐々木ビル",
+                "address3": null,
+                "city": "Kyoto",
+                "zip_code": "602-8153",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "上京区南伊勢屋町757-2",
+                    "佐々木ビル",
+                    "Kyoto, 京都府 〒602-8153",
+                    "Japan"
+                ]
+            },
+            "phone": "+81758125818",
+            "display_phone": "+81 75-812-5818",
+            "distance": 815.5442287714397
+        },
+        {
+            "id": "Np_WVa4YFtUKf87sacNavA",
+            "alias": "一風堂-錦小路店-京都市",
+            "name": "IPPUDO Nishiki Koji",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rJYhCshV2BdzgLgHw9O4Ww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E4%B8%80%E9%A2%A8%E5%A0%82-%E9%8C%A6%E5%B0%8F%E8%B7%AF%E5%BA%97-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 230,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.0048648025,
+                "longitude": 135.76133412
+            },
+            "transactions": [],
+            "price": "￥",
+            "location": {
+                "address1": "中京区東洞院通錦小路下る阪東屋町653-1",
+                "address2": "錦ビル1F",
+                "address3": null,
+                "city": "Kyoto",
+                "zip_code": "604-8143",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区東洞院通錦小路下る阪東屋町653-1",
+                    "錦ビル1F",
+                    "Kyoto, 京都府 〒604-8143",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752138800",
+            "display_phone": "+81 75-213-8800",
+            "distance": 1872.7912604238918
+        },
+        {
+            "id": "zEvdE51xOcNONyzxdykfHg",
+            "alias": "一蘭-京都河原町店-京都市-2",
+            "name": "ICHIRAN Kyoto Kawaramachi",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZzvxvKrkH428SytU6X9O_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E4%B8%80%E8%98%AD-%E4%BA%AC%E9%83%BD%E6%B2%B3%E5%8E%9F%E7%94%BA%E5%BA%97-%E4%BA%AC%E9%83%BD%E5%B8%82-2?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 156,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.005816,
+                "longitude": 135.768064
+            },
+            "transactions": [],
+            "price": "￥",
+            "location": {
+                "address1": "中京区蛸薬師通新京極東入裏寺町598",
+                "address2": "",
+                "address3": null,
+                "city": "Kyoto",
+                "zip_code": "604-8041",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区蛸薬師通新京極東入裏寺町598",
+                    "Kyoto, 京都府 〒604-8041",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752412205",
+            "display_phone": "+81 75-241-2205",
+            "distance": 2037.880473251647
+        },
+        {
+            "id": "rsC1CYgJctT98Ep4lrxx9A",
+            "alias": "餃々-三条木屋町店-京都市",
+            "name": "Chaochao Sanjō Kiyamachi",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TxQkPzyCrmvpXRa6SZ0EUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E9%A4%83%E3%80%85-%E4%B8%89%E6%9D%A1%E6%9C%A8%E5%B1%8B%E7%94%BA%E5%BA%97-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 217,
+            "categories": [
+                {
+                    "alias": "izakaya",
+                    "title": "Izakaya"
+                },
+                {
+                    "alias": "dumplings",
+                    "title": "Dumplings"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.008438,
+                "longitude": 135.770561
+            },
+            "transactions": [],
+            "price": "￥",
+            "location": {
+                "address1": "京区木屋町三条下ル石屋町117",
+                "address2": "",
+                "address3": "",
+                "city": "Kyoto",
+                "zip_code": "604-0961",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "京区木屋町三条下ル石屋町117",
+                    "Kyoto, 京都府 〒604-0961",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752510056",
+            "display_phone": "+81 75-251-0056",
+            "distance": 1954.0701811409424
+        },
+        {
+            "id": "KUcvq0r5wzihgHuepEzrsQ",
+            "alias": "レスカモトゥール-バー-京都市",
+            "name": "L'escamoteur Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qgWqFZArc2h3PsEOuLpVdQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E3%83%AC%E3%82%B9%E3%82%AB%E3%83%A2%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB-%E3%83%90%E3%83%BC-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 151,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 35.0019713215468,
+                "longitude": 135.770174190402
+            },
+            "transactions": [],
+            "price": "￥￥",
+            "location": {
+                "address1": "下京区西石垣通四条下る斎藤町138番地9",
+                "address2": "2F",
+                "address3": "",
+                "city": "Kyoto",
+                "zip_code": "600-8012",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "下京区西石垣通四条下る斎藤町138番地9",
+                    "2F",
+                    "Kyoto, 京都府 〒600-8012",
+                    "Japan"
+                ]
+            },
+            "phone": "+81757088511",
+            "display_phone": "+81 75-708-8511",
+            "distance": 2501.2484125462556
+        },
+        {
+            "id": "J_C3WR51KytcEwVMWvXHWw",
+            "alias": "あだち-京都市",
+            "name": "Adachi",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fIXdmsufCa4hBQRHn7D9UA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E3%81%82%E3%81%A0%E3%81%A1-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 43,
+            "categories": [
+                {
+                    "alias": "delicatessen",
+                    "title": "Delicatessen"
+                },
+                {
+                    "alias": "izakaya",
+                    "title": "Izakaya"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 35.0180595626113,
+                "longitude": 135.743811734804
+            },
+            "transactions": [],
+            "price": "￥",
+            "location": {
+                "address1": "上京区千本丸太町東入",
+                "address2": "",
+                "address3": "",
+                "city": "Kyoto",
+                "zip_code": "",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "上京区千本丸太町東入",
+                    "Kyoto, 京都府",
+                    "Japan"
+                ]
+            },
+            "phone": "+81758414156",
+            "display_phone": "+81 75-841-4156",
+            "distance": 1124.1609961743698
+        },
+        {
+            "id": "8wqP_GWzMu0lQ2dPMtDopA",
+            "alias": "はふう-本店-中京区",
+            "name": "Hafuu Honten",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oZ39SqxSI7CKAJwZm8reYg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E3%81%AF%E3%81%B5%E3%81%86-%E6%9C%AC%E5%BA%97-%E4%B8%AD%E4%BA%AC%E5%8C%BA?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 44,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "westernjapanese",
+                    "title": "Western Style Japanese Food"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 35.015405,
+                "longitude": 135.765674
+            },
+            "transactions": [],
+            "price": "￥￥￥￥",
+            "location": {
+                "address1": "麩屋町通夷川上る 笹屋町471-1",
+                "address2": null,
+                "address3": null,
+                "city": "中京区",
+                "zip_code": "604-0983",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "麩屋町通夷川上る 笹屋町471-1",
+                    "中京区, 京都府 〒604-0983",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752571581",
+            "display_phone": "+81 75-257-1581",
+            "distance": 1110.4493647227118
+        },
+        {
+            "id": "1VlqAXJHZ8464mw_iBTqiw",
+            "alias": "二条城-京都市-3",
+            "name": "Nijo Castle",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/w2o7kflggM0mqvUyQrmGOA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E4%BA%8C%E6%9D%A1%E5%9F%8E-%E4%BA%AC%E9%83%BD%E5%B8%82-3?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 74,
+            "categories": [
+                {
+                    "alias": "landmarks",
+                    "title": "Landmarks & Historical Buildings"
+                },
+                {
+                    "alias": "castles",
+                    "title": "Castles"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.0140642484668,
+                "longitude": 135.747605361424
+            },
+            "transactions": [],
+            "location": {
+                "address1": "中京区二条通堀川西入二条城町541",
+                "address2": "",
+                "address3": "",
+                "city": "Kyoto",
+                "zip_code": "604-8301",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区二条通堀川西入二条城町541",
+                    "Kyoto, 京都府 〒604-8301",
+                    "Japan"
+                ]
+            },
+            "phone": "+81758410096",
+            "display_phone": "+81 75-841-0096",
+            "distance": 1064.3627537340412
+        },
+        {
+            "id": "W-1RLQQUAwPLnIw1wUmEUA",
+            "alias": "和醸良麺-すがり-京都市",
+            "name": "Wajōryōmen Sugari",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UkdGLCR9KUovlEb9I26CRA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E5%92%8C%E9%86%B8%E8%89%AF%E9%BA%BA-%E3%81%99%E3%81%8C%E3%82%8A-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 103,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.0042759,
+                "longitude": 135.757311
+            },
+            "transactions": [],
+            "price": "￥",
+            "location": {
+                "address1": "中京区観音堂町471-1",
+                "address2": "",
+                "address3": "",
+                "city": "Kyoto",
+                "zip_code": "604-8222",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区観音堂町471-1",
+                    "Kyoto, 京都府 〒604-8222",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752051185",
+            "display_phone": "+81 75-205-1185",
+            "distance": 1870.6363193038474
+        },
+        {
+            "id": "tXq1zXDYwmkSKocBLHEmdQ",
+            "alias": "feel-京-good-京都市-3",
+            "name": "Feel Kyo Good",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LrV7Fp89Z7PenW01P-_HJw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/feel-%E4%BA%AC-good-%E4%BA%AC%E9%83%BD%E5%B8%82-3?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 84,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 35.009407,
+                "longitude": 135.773888
+            },
+            "transactions": [],
+            "price": "￥￥",
+            "location": {
+                "address1": "東山区大橋町88",
+                "address2": "辻野ビル 1F",
+                "address3": "",
+                "city": "Kyoto",
+                "zip_code": "605-0009",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "東山区大橋町88",
+                    "辻野ビル 1F",
+                    "Kyoto, 京都府 〒605-0009",
+                    "Japan"
+                ]
+            },
+            "phone": "+81757510888",
+            "display_phone": "+81 75-751-0888",
+            "distance": 2108.3145355559955
+        },
+        {
+            "id": "hhygxL562UCCrZu7moxiNQ",
+            "alias": "スパイスチャンバー-京都市",
+            "name": "SPICE CHAMBER",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/y69ovZS9dv6HfH9OdzqITg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%BC-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 79,
+            "categories": [
+                {
+                    "alias": "japacurry",
+                    "title": "Japanese Curry"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.002339,
+                "longitude": 135.758047
+            },
+            "transactions": [],
+            "price": "￥",
+            "location": {
+                "address1": "下京区室町通綾小路下る白楽天町502",
+                "address2": "福井ビル1F",
+                "address3": null,
+                "city": "Kyoto",
+                "zip_code": "600-8422",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "下京区室町通綾小路下る白楽天町502",
+                    "福井ビル1F",
+                    "Kyoto, 京都府 〒600-8422",
+                    "Japan"
+                ]
+            },
+            "phone": "+81753423813",
+            "display_phone": "+81 75-342-3813",
+            "distance": 2091.399415172248
+        },
+        {
+            "id": "OZQXp4RwyvXJBc7M664eGQ",
+            "alias": "らーめん千の風京都-京都市",
+            "name": "Ramen Sen no Kaze Kyoto",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9XUGSloyBRZNZbHS0Q2aoA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%E5%8D%83%E3%81%AE%E9%A2%A8%E4%BA%AC%E9%83%BD-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 122,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "dumplings",
+                    "title": "Dumplings"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.00459,
+                "longitude": 135.767529
+            },
+            "transactions": [],
+            "price": "￥",
+            "location": {
+                "address1": "中京区新京極通り四条上ル中之町580",
+                "address2": "",
+                "address3": "",
+                "city": "Kyoto",
+                "zip_code": "604-8042",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区新京極通り四条上ル中之町580",
+                    "Kyoto, 京都府 〒604-8042",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752550181",
+            "display_phone": "+81 75-255-0181",
+            "distance": 2127.1973547498087
+        },
+        {
+            "id": "r2Yw6GRBX7AnMRgfZ-DGUg",
+            "alias": "本家尾張屋-本店-京都市",
+            "name": "Honke Owariya Honten",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gm7FgQqpPo7trXd-PhD4Gg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E6%9C%AC%E5%AE%B6%E5%B0%BE%E5%BC%B5%E5%B1%8B-%E6%9C%AC%E5%BA%97-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 41,
+            "categories": [
+                {
+                    "alias": "soba",
+                    "title": "Soba"
+                },
+                {
+                    "alias": "jpsweets",
+                    "title": "Japanese Sweets"
+                },
+                {
+                    "alias": "donburi",
+                    "title": "Donburi"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.012795,
+                "longitude": 135.76012
+            },
+            "transactions": [],
+            "price": "￥￥",
+            "location": {
+                "address1": "中京区車屋町通二条下ル仁王門突抜町322",
+                "address2": null,
+                "address3": null,
+                "city": "Kyoto",
+                "zip_code": "604-0841",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区車屋町通二条下ル仁王門突抜町322",
+                    "Kyoto, 京都府 〒604-0841",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752313446",
+            "display_phone": "+81 75-231-3446",
+            "distance": 1004.7877252453401
+        },
+        {
+            "id": "JFCdB9s9btYg2srAeTsNXA",
+            "alias": "じき-宮ざわ-京都市",
+            "name": "Jiki Miyazawa",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_YRhQHvWMSWAwLrKb3-aXg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E3%81%98%E3%81%8D-%E5%AE%AE%E3%81%96%E3%82%8F-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 37,
+            "categories": [
+                {
+                    "alias": "kaiseki",
+                    "title": "Kaiseki"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 35.004338,
+                "longitude": 135.76343
+            },
+            "transactions": [],
+            "price": "￥￥￥￥",
+            "location": {
+                "address1": "中京区堺町四条上ル東側八百屋町553-1",
+                "address2": null,
+                "address3": null,
+                "city": "Kyoto",
+                "zip_code": "604-0000",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区堺町四条上ル東側八百屋町553-1",
+                    "Kyoto, 京都府 〒604-0000",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752131326",
+            "display_phone": "+81 75-213-1326",
+            "distance": 1989.229935210491
+        },
+        {
+            "id": "stSzldsWujHHqqKkFzF3QA",
+            "alias": "gyoza-bar-anzukko-京都市-2",
+            "name": "GYOZA BAR ANZUKKO",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ch6OwbibV2PyGVwI1r9FKA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gyoza-bar-anzukko-%E4%BA%AC%E9%83%BD%E5%B8%82-2?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 103,
+            "categories": [
+                {
+                    "alias": "dumplings",
+                    "title": "Dumplings"
+                },
+                {
+                    "alias": "izakaya",
+                    "title": "Izakaya"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.009226,
+                "longitude": 135.769622
+            },
+            "transactions": [],
+            "price": "￥￥",
+            "location": {
+                "address1": "中京区恵比須町442-1",
+                "address2": "ル・シゼームビル 2F",
+                "address3": "",
+                "city": "Kyoto",
+                "zip_code": "604-8005",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区恵比須町442-1",
+                    "ル・シゼームビル 2F",
+                    "Kyoto, 京都府 〒604-8005",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752113801",
+            "display_phone": "+81 75-211-3801",
+            "distance": 1831.6319606302784
+        },
+        {
+            "id": "WuI2ouiv7U5BiQmIepUkJg",
+            "alias": "premium-wagyu-beef-shibata-京都市",
+            "name": "Premium Wagyu Beef SHIBATA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SVVn8VhmhmEAfpAYpjKBpA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/premium-wagyu-beef-shibata-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 70,
+            "categories": [
+                {
+                    "alias": "yakiniku",
+                    "title": "Yakiniku"
+                },
+                {
+                    "alias": "sukiyaki",
+                    "title": "Sukiyaki"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.0082302,
+                "longitude": 135.7712615
+            },
+            "transactions": [],
+            "location": {
+                "address1": "中京区木屋町通り三条下る石屋町123",
+                "address2": "ウィステリアコート先斗町3F",
+                "address3": "",
+                "city": "Kyoto",
+                "zip_code": "604-8002",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区木屋町通り三条下る石屋町123",
+                    "ウィステリアコート先斗町3F",
+                    "Kyoto, 京都府 〒604-8002",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752135008",
+            "display_phone": "+81 75-213-5008",
+            "distance": 2015.3187840081541
+        },
+        {
+            "id": "eEEaDigSCOkvTgVXwMORag",
+            "alias": "一保堂茶舗-京都本店-京都市",
+            "name": "Ippodo Tea  Kyoto Honten",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GcU4zCsUYlfUTxQBDTXt7w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E4%B8%80%E4%BF%9D%E5%A0%82%E8%8C%B6%E8%88%97-%E4%BA%AC%E9%83%BD%E6%9C%AC%E5%BA%97-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 38,
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 35.014454,
+                "longitude": 135.767412
+            },
+            "transactions": [],
+            "price": "￥￥￥",
+            "location": {
+                "address1": "中京区寺町通二条上ル",
+                "address2": "",
+                "address3": null,
+                "city": "Kyoto",
+                "zip_code": "604-0915",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区寺町通二条上ル",
+                    "Kyoto, 京都府 〒604-0915",
+                    "Japan"
+                ]
+            },
+            "phone": "+81752114018",
+            "display_phone": "+81 75-211-4018",
+            "distance": 1300.7925374703996
+        },
+        {
+            "id": "eV9Zb5Nt3lo2Gws1k6aP4g",
+            "alias": "タイガー餃子会館-四条烏丸-京都市",
+            "name": "Tiger Gyoza Hall - Shijo-Karasuma",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hLCCAAzEAZ6U3zsZ-cU3OA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E9%A4%83%E5%AD%90%E4%BC%9A%E9%A4%A8-%E5%9B%9B%E6%9D%A1%E7%83%8F%E4%B8%B8-%E4%BA%AC%E9%83%BD%E5%B8%82?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 72,
+            "categories": [
+                {
+                    "alias": "dumplings",
+                    "title": "Dumplings"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.0048294067383,
+                "longitude": 135.758804321289
+            },
+            "transactions": [],
+            "price": "￥",
+            "location": {
+                "address1": "中京区占出山町314-1",
+                "address2": "",
+                "address3": "",
+                "city": "Kyoto",
+                "zip_code": "604-8155",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "中京区占出山町314-1",
+                    "Kyoto, 京都府 〒604-8155",
+                    "Japan"
+                ]
+            },
+            "phone": "+81757085212",
+            "display_phone": "+81 75-708-5212",
+            "distance": 1831.6648223628772
+        },
+        {
+            "id": "vDO8Pv6oqLzhUSgtmyA74g",
+            "alias": "茶寮-都路里-祇園本店-京都市-2",
+            "name": "Saryō Tsujiri Gion Honten",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5c7t0G6Cw2VqRdMnX0YGOQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%E8%8C%B6%E5%AF%AE-%E9%83%BD%E8%B7%AF%E9%87%8C-%E7%A5%87%E5%9C%92%E6%9C%AC%E5%BA%97-%E4%BA%AC%E9%83%BD%E5%B8%82-2?adjust_creative=QZsM1JMhm4u_X176nAHxRQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QZsM1JMhm4u_X176nAHxRQ",
+            "review_count": 98,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "shavedice",
+                    "title": "Shaved Ice"
+                },
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 35.003665,
+                "longitude": 135.774484
+            },
+            "transactions": [],
+            "price": "￥",
+            "location": {
+                "address1": "東山区四条通祇園町南側 573-3",
+                "address2": "祇園辻利本店2F・3F",
+                "address3": "",
+                "city": "Kyoto",
+                "zip_code": "605-0075",
+                "country": "JP",
+                "state": "26",
+                "display_address": [
+                    "東山区四条通祇園町南側 573-3",
+                    "祇園辻利本店2F・3F",
+                    "Kyoto, 京都府 〒605-0075",
+                    "Japan"
+                ]
+            },
+            "phone": "+81755612257",
+            "display_phone": "+81 75-561-2257",
+            "distance": 2586.2032317895473
+        }
+    ],
+    "total": 3700,
+    "region": {
+        "center": {
+            "longitude": 135.7556075,
+            "latitude": 35.021041
+        }
+    }
+}
