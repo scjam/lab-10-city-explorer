@@ -1,8 +1,9 @@
 require('dotenv').config();
 
-const { mungeLocation, mungeWeather, mungeHiking } = require('../lib/utils.js');
+const { mungeLocation, mungeWeather, mungeHiking, mungeYelp } = require('../lib/utils.js');
 const weatherData = require('../data/weather.json');
 const hikingData = require('../data/hiking.json');
+const yelpData = require('../data/yelp.json');
 
 describe('app routes', () => {
   describe('routes', () => {
@@ -194,7 +195,7 @@ describe('app routes', () => {
         
       ];
 
-      const result = mungeYelp(hikingData);
+      const result = mungeYelp(yelpData);
 
       expect(result).toEqual(expectation);
     });
